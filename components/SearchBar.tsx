@@ -4,7 +4,7 @@ import React from 'react'
 const SearchBar = () => {
   return (
     <View className="w-2/3 h-auto bg-white rounded-md mb-1">
-      <TextInput onPress={() => {}} placeholder="Search Best Buy" className="text-black" />
+      <TextInput onPress={() => {}} placeholder="Search Best Buy Clone" className="text-black" />
     </View>
   )
 }
